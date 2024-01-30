@@ -76,7 +76,7 @@ def main():
     print("Welcome to KBC!")
     qa_data = get_organized_data()
 
-    num_questions = 10 # We can modify this to get the inpur from the user
+    num_questions = 10 # We can modify this to get the input from the user
     correct_answers = 0
 
     for _ in range(num_questions):
